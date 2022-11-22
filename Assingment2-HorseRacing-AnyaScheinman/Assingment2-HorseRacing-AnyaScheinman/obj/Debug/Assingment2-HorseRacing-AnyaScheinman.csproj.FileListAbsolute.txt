@@ -1,0 +1,11 @@
+C:\Users\anyas\Desktop\School\Game Prog\Assingment 2\Assingment2-HorseRacing-AnyaScheinman\Assingment2-HorseRacing-AnyaScheinman\bin\Debug\Assingment2-HorseRacing-AnyaScheinman.exe.config
+C:\Users\anyas\Desktop\School\Game Prog\Assingment 2\Assingment2-HorseRacing-AnyaScheinman\Assingment2-HorseRacing-AnyaScheinman\bin\Debug\Assingment2-HorseRacing-AnyaScheinman.exe
+C:\Users\anyas\Desktop\School\Game Prog\Assingment 2\Assingment2-HorseRacing-AnyaScheinman\Assingment2-HorseRacing-AnyaScheinman\bin\Debug\Assingment2-HorseRacing-AnyaScheinman.pdb
+C:\Users\anyas\Desktop\School\Game Prog\Assingment 2\Assingment2-HorseRacing-AnyaScheinman\Assingment2-HorseRacing-AnyaScheinman\obj\Debug\Assingment2-HorseRacing-AnyaScheinman.csproj.AssemblyReference.cache
+C:\Users\anyas\Desktop\School\Game Prog\Assingment 2\Assingment2-HorseRacing-AnyaScheinman\Assingment2-HorseRacing-AnyaScheinman\obj\Debug\Assingment2-HorseRacing-AnyaScheinman.csproj.SuggestedBindingRedirects.cache
+C:\Users\anyas\Desktop\School\Game Prog\Assingment 2\Assingment2-HorseRacing-AnyaScheinman\Assingment2-HorseRacing-AnyaScheinman\obj\Debug\Assingment2_HorseRacing_AnyaScheinman.Form1.resources
+C:\Users\anyas\Desktop\School\Game Prog\Assingment 2\Assingment2-HorseRacing-AnyaScheinman\Assingment2-HorseRacing-AnyaScheinman\obj\Debug\Assingment2_HorseRacing_AnyaScheinman.Properties.Resources.resources
+C:\Users\anyas\Desktop\School\Game Prog\Assingment 2\Assingment2-HorseRacing-AnyaScheinman\Assingment2-HorseRacing-AnyaScheinman\obj\Debug\Assingment2-HorseRacing-AnyaScheinman.csproj.GenerateResource.cache
+C:\Users\anyas\Desktop\School\Game Prog\Assingment 2\Assingment2-HorseRacing-AnyaScheinman\Assingment2-HorseRacing-AnyaScheinman\obj\Debug\Assingment2-HorseRacing-AnyaScheinman.csproj.CoreCompileInputs.cache
+C:\Users\anyas\Desktop\School\Game Prog\Assingment 2\Assingment2-HorseRacing-AnyaScheinman\Assingment2-HorseRacing-AnyaScheinman\obj\Debug\Assingment2-HorseRacing-AnyaScheinman.exe
+C:\Users\anyas\Desktop\School\Game Prog\Assingment 2\Assingment2-HorseRacing-AnyaScheinman\Assingment2-HorseRacing-AnyaScheinman\obj\Debug\Assingment2-HorseRacing-AnyaScheinman.pdb
